@@ -1,0 +1,26 @@
+--- 
+title: "Cours d'Analyse"
+author: "Franck Corset"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+header_includes:
+  - \usepackage{amsmath}
+  - \usepackage{amssymb}
+  - \usepackage{amsthm}
+  - \usepackage{xcolor}
+  - \usepackage{fancybox}
+documentclass: book
+output:
+  bookdown::gitbook: default
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Ce document est un support de cours d'analyse dispensé en IUT informatique. The output format for this example is bookdown::gitbook."
+---
+
+
+# Préambule
+
+Vous trouverez des vidéos et des tests dans la page moodle développée par Agnes Hamon à l'adresse suivante :
+
+https://cours.univ-grenoble-alpes.fr/course/view.php?id=3562#section-0
