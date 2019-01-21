@@ -37,7 +37,7 @@ Pour toute la suite, nous nous intéressons aux fonctions réelles, c'est à dir
 
 
 ```{definition, name="Continuité"}
-Soit $f$ une fonction définie sur un intervalle $I=]a,b[$ ($a<b$), ouvert de $\mathbb R$, à valeurs réelles. Soit $x_0\in I$, on dit que $f$ est continue en $x_0$ si et seulement si 
+Soit $f$ une fonction définie sur un intervalle $I=]a,b[$, ($a<b$), ouvert de $\mathbb R$, à valeurs réelles. Soit $x_0\in I$, on dit que $f$ est continue en $x_0$ si et seulement si 
 $$
 \lim_{x\rightarrow x_0^-}f(x)=\lim_{x\rightarrow x_0^+}f(x)=f(x_0).
 $$
