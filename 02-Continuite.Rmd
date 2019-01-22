@@ -36,7 +36,9 @@ $$
 $$
 ```
 
-
+```{example}
+La fonction exponentielle est continue sur $\mathbb R$.
+```
 
 
 
