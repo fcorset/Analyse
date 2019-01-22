@@ -1,34 +1,50 @@
 # Continuité et dérivabilité
 
 ## Introduction et rappels
+
 >
+
 ```{definition, name="Application"}
 Soient $E$ et $F$, deux ensembles et $f$ est une application de $E$ dans $F$ si et seulement si pour tout $x\in E$, on associe un **unique** élément $y\in F$. $y=f(x)$ est appelé image de $x$ par $f$ et $x$ est appelé antécédent de $y$ par $f$.
 ```
+
 >
+
 Remarque : C'est la définition d'une application et non pas d'une fonction.
+
 >
+
 ```{definition, name="Application injective"}
 Soient $E$ et $F$, deux ensembles et $f$ est une application de $E$ dans $F$. $f$ est **injective** si et seulement si tout élément $y$ de $F$ admet **au plus** un antécédent dans $E$
 ```
+
 >
+
 ```{definition, name="Application surjective"}
 Soient $E$ et $F$, deux ensembles et $f$ est une application de $E$ dans $F$. $f$ est **surjective** si et seulement si tout élément $y$ de $F$ admet **au moins** un antécédent dans $E$ 
 ```
+
 >
+
 ```{definition, name="Application bijective"}
 Soient $E$ et $F$, deux ensembles et $f$ est une application de $E$ dans $F$. $f$ est **bijective** si et seulement si $f$ est injective **et** surjective. Autrement dit, $f$ est **bijective** si et seulement si tout élément $y$ de $F$ admet **un et un seul** antécédent $x$ dans $E$:
 $$
 \forall y \in F, \exists ! x\in E,\, y=f(x)  
 $$
 ```
+
 >
+
 ```{definition, name="Application bijection réciproque"}
 Soient $E$ et $F$, deux ensembles et $f$ est une application bijective de $E$ dans $F$. On définit l'application, notée $f^{-1}$, qui à chaque $y$ de $F$ associe l'unique élément $x$ de $E$, tel que $y=f(x)$. On note $x=f^{-1}(y)$. Cette application est appelée bijection réciproque de $f$. 
 ```
+
 >
+
 Pour toute la suite, nous nous intéressons aux fonctions réelles, c'est à dire où les ensembles de départ et d'arrivée sont des sous-ensemble de $\mathbb R$.
+
 >
+
 ```{definition, name="Continuité"}
 Soit $f$ une fonction définie sur un intervalle $I=]a,b[$, ($a<b$), ouvert de $\mathbb R$, à valeurs réelles. Soit $x_0\in I$, on dit que $f$ est continue en $x_0$ si et seulement si 
 $$
