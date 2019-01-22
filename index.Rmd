@@ -21,6 +21,6 @@ description: "Ce document est un support de cours d'analyse dispensé en IUT inf
 
 # Préambule
 
-Vous trouverez des vidéos et des tests dans la page moodle développée par Agnes Hamon à l'adresse suivante :
+Vous trouverez des vidéos et des tests dans la page moodle développée par Agnes Hamon à l'adresse suivante et plus encore :
 
 https://cours.univ-grenoble-alpes.fr/course/view.php?id=3562#section-0
