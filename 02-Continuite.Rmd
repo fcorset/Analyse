@@ -10,7 +10,7 @@ Soient $E$ et $F$, deux ensembles et $f$ est une application de $E$ dans $F$ si 
 
 >
 
-Remarque : C'est la définition d'une application et non pas d'une fonction.
+Remarque : C'est la définition d'une application et non pas d'une fonction !
 
 >
 
