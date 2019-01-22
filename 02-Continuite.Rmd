@@ -41,8 +41,13 @@ Soit $f$ une fonction définie sur un intervalle $I=]a,b[$, ($a<b$), ouvert de $
 $$
 \lim_{x\rightarrow x_0^-}f(x)=\lim_{x\rightarrow x_0^+}f(x)=f(x_0).
 $$
-On dit que $f$ est une fonction **continue** sur $]a;b[$ si elle est {\bf continue} en tout point $x_0$ de $]a;b[$.
 ```
+
+
+
+
+
+
 
 
 
