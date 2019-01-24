@@ -1,5 +1,5 @@
 --- 
-title: "Cours d'Analyse (1ère Année !!!)"
+title: "Cours d'Analyse"
 author: "Franck Corset"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -21,6 +21,6 @@ description: "Ce document est un support de cours d'analyse dispensé en IUT inf
 
 # Préambule
 
-Vous trouverez des vidéos et des tests dans la page moodle développée par Agnes Hamon à l'adresse suivante et plus encore... :
+Vous trouverez des vidéos et des tests dans la page moodle développée par Agnes Hamon à l'adresse suivante :
 
 https://cours.univ-grenoble-alpes.fr/course/view.php?id=3562#section-0
