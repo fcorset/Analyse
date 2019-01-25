@@ -10,8 +10,6 @@ header_includes:
   - \usepackage{xcolor}
   - \usepackage{fancybox}
 documentclass: book
-output:
-  bookdown::gitbook: default
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
